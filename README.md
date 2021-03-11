@@ -1,2 +1,2 @@
 # Goku
-some resources
+some resources may added
